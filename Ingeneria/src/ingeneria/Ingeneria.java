@@ -18,7 +18,7 @@ public class Ingeneria {
         // TODO code application logic here
         
         
-        System.out.println("VAMOS LEPRAA");
+        System.out.println("hola");
     }
     
 }
